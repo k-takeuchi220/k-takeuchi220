@@ -18,7 +18,7 @@
 
 ---
 
-脱出ゲーム リリース情報
+脱出ゲーム[NAZOCUBE] 最新リリース情報
 <!-- NAZOCUBE:START -->
 - [『ミニ脱出ゲーム 鶴の住む家からの脱出』をリリースしました。](https://nazocube.com/tsuru-release/)
 - [『ミニ脱出ゲーム 「いらすとや」からの脱出』をリリースしました。](https://nazocube.com/irasutoya-release/)
