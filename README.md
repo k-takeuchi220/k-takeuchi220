@@ -2,11 +2,12 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=k-takeuchi220&count_private=true&show_icons=true&theme=prussian" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-takeuchi220&theme=prussian" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-takeuchi220&theme=prussian" />
 </a>
   
-  
-  
+---
+
+技術ブログ[エンジニアの階段] 最新投稿
 <!-- BLOG-POST-LIST:START -->
 - [【VSCode】php cs fixerでの整形設定、備忘録](https://took.jp/vscode-php-cs-fixer/)
 - [Laravelのmigrationファイルでprimary, uniqueキーが長すぎるとエラーになる](https://took.jp/laravel-primary-unique-too-long/)
