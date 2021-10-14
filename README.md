@@ -20,4 +20,9 @@
 
 脱出ゲーム リリース情報
 <!-- NAZOCUBE:START -->
+- [『ミニ脱出ゲーム 鶴の住む家からの脱出』をリリースしました。](https://nazocube.com/tsuru-release/)
+- [『ミニ脱出ゲーム 「いらすとや」からの脱出』をリリースしました。](https://nazocube.com/irasutoya-release/)
+- [「ミニ脱出ゲーム 思い出の教室」をリリースしました](https://nazocube.com/school-release/)
+- [「ミニ脱出ゲーム 聖なる夜のクリスマス脱出」をリリースしました](https://nazocube.com/xmas-release/)
+- [「ミニ脱出ゲーム 山奥のカフェからの脱出」をリリースしました](https://nazocube.com/cafe-release/)
 <!-- NAZOCUBE:END -->
