@@ -2,7 +2,7 @@
   <a href="https://github.com/k-takeuchi220/k-takeuchi220/">
     <img src="https://komarev.com/ghpvc/?username=k-takeuchi220" alt="k-takeuchi220" />
   </a>
-  <a href="http://twitter.com/yutkat">
+  <a href="http://twitter.com/took220">
     <img height="20" src="https://img.shields.io/twitter/follow/took220?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/k-takeuchi220">
