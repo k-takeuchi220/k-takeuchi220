@@ -21,11 +21,11 @@
 
 技術ブログ[エンジニアの階段] 最新投稿
 <!-- ENGINEER:START -->
+- [MacBook キートップの安全な外し方 第2, 3世代](https://took.jp/macbook-keytop/)
 - [LINEで送ったメッセージをスプレッドシートに記録したい](https://took.jp/line-spreadsheet/)
 - [php cs fixerをGitHub Actionsで実行した際のError: Process completed with exit code 8.エラーの対処法](https://took.jp/github-actions-php-fixer/)
 - [mac キーチェーンアクセスが削除できないときの対処法](https://took.jp/mac-keychain/)
 - [GitHubAPIで片思いフォローを一括解除をしたい](https://took.jp/githubapi-unrequited/)
-- [【VSCode】php cs fixerでの整形設定、備忘録](https://took.jp/vscode-php-cs-fixer/)
 <!-- ENGINEER:END -->
 
 ---
