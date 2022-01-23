@@ -21,11 +21,11 @@
 
 技術ブログ[エンジニアの階段] 最新投稿
 <!-- ENGINEER:START -->
+- [Laravel Reactでenvに設定した環境変数を読み取る](https://took.jp/laravel-mix-env/)
 - [PostmanのTestsでResponseの大きな数値が丸められてしまう場合の解決法](https://took.jp/postman-bigint/)
 - [Apple Trade Inでデバイスを売却する手順とメリット、デメリット](https://took.jp/apple-trade-in/)
 - [MacBook キートップの安全な外し方 第2, 3世代](https://took.jp/macbook-keytop/)
 - [LINEで送ったメッセージをスプレッドシートに記録したい](https://took.jp/line-spreadsheet/)
-- [php cs fixerをGitHub Actionsで実行した際のError: Process completed with exit code 8.エラーの対処法](https://took.jp/github-actions-php-fixer/)
 <!-- ENGINEER:END -->
 
 ---
