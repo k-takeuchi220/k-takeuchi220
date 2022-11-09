@@ -21,11 +21,11 @@
 
 技術ブログ[エンジニアの階段] 最新投稿
 <!-- ENGINEER:START -->
+- [brew install実行時、No available formula with the name &quot;&quot;.](https://took.jp/no-available-formul-with-the-name/)
 - [【Xcode】iOSのアプリ名、トラッキング許可メッセージをローカライズする](https://took.jp/xcode-localize/)
 - [【Xcode】 does not contain bitcode 解決法](https://took.jp/xcode-bitcode/)
 - [【Unity】AdMobアップデート後のAndroidビルドでつまづいた話](https://took.jp/admob-update-android/)
 - [【Xcode】 Unityプロジェクトをシュミレータ起動時に、EXC_BAD_ACCESSが発生した](https://took.jp/xcode-exec-bad-access/)
-- [【PHP】推奨したい記述方法 チートシート](https://took.jp/php-cheat-sheet/)
 <!-- ENGINEER:END -->
 
 ---
