@@ -21,11 +21,11 @@
 
 技術ブログ[エンジニアの階段] 最新投稿
 <!-- ENGINEER:START -->
+- [【Sequelize】migrationのDB接続設定値にenvに設定した環境変数を使用する](https://took.jp/sequelize-migration-env/)
 - [【Excel】パスワードの分からないシートのロックを解除する](https://took.jp/excel-sheet-lock/)
 - [【Lightsail】NodejsでHello world](https://took.jp/lightsail-nodejs-helloworld/)
 - [Boltを使用してSlack Botを作成してみる](https://took.jp/bolt-slack/)
 - [【Unity】Grpc.coreを使用してgrpcを試してみる](https://took.jp/unity-grpc-core/)
-- [brew install実行時、No available formula with the name &quot;&quot;.](https://took.jp/no-available-formul-with-the-name/)
 <!-- ENGINEER:END -->
 
 ---
