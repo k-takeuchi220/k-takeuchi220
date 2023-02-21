@@ -38,3 +38,4 @@
 - [『ミニ脱出ゲーム 「いらすとや」からの脱出』をリリースしました。](https://nazocube.com/irasutoya-release/)
 - [「ミニ脱出ゲーム 思い出の教室」をリリースしました](https://nazocube.com/school-release/)
 <!-- NAZOCUBE:END -->
+
