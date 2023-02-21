@@ -23,3 +23,4 @@ jobs:
           with:
             comment_tag_name: "NAZOCUBE"
             feed_list: "https://nazocube.com/feed/"
+
