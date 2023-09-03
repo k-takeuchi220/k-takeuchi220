@@ -21,11 +21,11 @@
 
 技術ブログ[エンジニアの階段] 最新投稿
 <!-- ENGINEER:START -->
+- [Lightsailで作成したWordPressサイトにCloudFrontを導入する](https://took.jp/lightsail-wordpress-cloudfront/)
 - [はじめてのterraform インストールからAWSリソース作成まで](https://took.jp/terraform-aws/)
 - [flutter doctor実行時のエラー解決方法備忘録](https://took.jp/flutter-doctor/)
 - [Golang DIライブラリUber-Go/Digを触ってみる](https://took.jp/golang-dig/)
 - [lambdaからlightsailのmysqlに接続する](https://took.jp/lambda-lightsail-mysql/)
-- [PHPの配列関数をGo言語で再現する + スライスの基本操作](https://took.jp/golang-php-array/)
 <!-- ENGINEER:END -->
 
 ---
