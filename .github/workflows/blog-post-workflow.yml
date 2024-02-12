@@ -13,14 +13,3 @@ jobs:
         with:
           comment_tag_name: "ENGINEER"
           feed_list: "https://took.jp/feed/"
-  
-  update-readme-with-blog2:
-      name: Update this repo's README with latest blog posts2
-      runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v2
-        - uses: gautamkrishnar/blog-post-workflow@master
-          with:
-            comment_tag_name: "NAZOCUBE"
-            feed_list: "https://nazocube.com/feed/"
-
