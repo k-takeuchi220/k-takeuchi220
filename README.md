@@ -27,15 +27,3 @@
 - [Golang DIライブラリUber-Go/Digを触ってみる](https://took.jp/golang-dig/)
 - [lambdaからlightsailのmysqlに接続する](https://took.jp/lambda-lightsail-mysql/)
 <!-- ENGINEER:END -->
-
----
-
-脱出ゲーム[NAZOCUBE] 最新リリース情報
-<!-- NAZOCUBE:START -->
-- [『ミニ脱出ゲーム 山小屋からの脱出』をリリースしました。](https://nazocube.com/mountainhut-release/)
-- [『ミニ脱出ゲーム はじめての一人暮らし』をリリースしました。](https://nazocube.com/alone-release/)
-- [『ミニ脱出ゲーム 鶴の住む家からの脱出』をリリースしました。](https://nazocube.com/tsuru-release/)
-- [『ミニ脱出ゲーム 「いらすとや」からの脱出』をリリースしました。](https://nazocube.com/irasutoya-release/)
-- [「ミニ脱出ゲーム 思い出の教室」をリリースしました](https://nazocube.com/school-release/)
-<!-- NAZOCUBE:END -->
-
