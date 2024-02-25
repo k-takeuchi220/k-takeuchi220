@@ -21,9 +21,9 @@
 
 技術ブログ[エンジニアの階段] 最新投稿
 <!-- ENGINEER:START -->
+- [【Unity】OpenAPI&lpar;Swagger&rpar;からopenapi-generator-cliを使用してコードを自動生成する](https://took.jp/openapi-generator-cli-unity/)
 - [Lightsailで作成したWordPressサイトにCloudFrontを導入する](https://took.jp/lightsail-wordpress-cloudfront/)
 - [はじめてのterraform インストールからAWSリソース作成まで](https://took.jp/terraform-aws/)
 - [flutter doctor実行時のエラー解決方法備忘録](https://took.jp/flutter-doctor/)
 - [Golang DIライブラリUber-Go/Digを触ってみる](https://took.jp/golang-dig/)
-- [lambdaからlightsailのmysqlに接続する](https://took.jp/lambda-lightsail-mysql/)
 <!-- ENGINEER:END -->
