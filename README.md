@@ -1,21 +1,14 @@
-<p align="left"> 
-  <a href="https://github.com/k-takeuchi220/k-takeuchi220/">
-    <img src="https://komarev.com/ghpvc/?username=k-takeuchi220" alt="k-takeuchi220" />
-  </a>
-  <a href="http://twitter.com/took220">
-    <img height="20" src="https://img.shields.io/twitter/follow/took220?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/k-takeuchi220">
-    <img height="20" src="https://img.shields.io/github/followers/k-takeuchi220?label=follow&logo=github&style=flat" />
-  </a>
-</p>
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=k-takeuchi220&count_private=true&show_icons=true&theme=prussian" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-takeuchi220&theme=prussian" />
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=k-takeuchi220&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=k-takeuchi220&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=k-takeuchi220&show_icons=true" />
+</picture>
   
 ---
 
