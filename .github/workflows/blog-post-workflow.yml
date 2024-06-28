@@ -21,4 +21,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with: 
           comment_tag_name: "ZENN"
-          feed_list: "https://zenn.dev/took220"
+          feed_list: "https://zenn.dev/took220/feed/"
