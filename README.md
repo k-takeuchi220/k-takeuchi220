@@ -23,5 +23,5 @@
 
 
 Zenn記事投稿
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- ZENN:START -->
+<!-- ZENN:END -->
