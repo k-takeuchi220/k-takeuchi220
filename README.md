@@ -24,7 +24,6 @@
 
 Zenn記事投稿
 <!-- ZENN:START -->
-- [Go言語 ビット演算でのフラグ管理](https://zenn.dev/edash_tech_blog/articles/c0a3a5035e9196)
 - [Golang開発者のためのクリーンアーキテクチャ](https://zenn.dev/edash_tech_blog/articles/b4629f9cd73240)
 - [pressly/goose migrationをgoファイルで実行する](https://zenn.dev/edash_tech_blog/articles/d906b37f7dc253)
 - [GolangとEchoで実装するトランザクション管理](https://zenn.dev/edash_tech_blog/articles/75eec1a927b5ef)
