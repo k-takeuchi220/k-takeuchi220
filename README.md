@@ -24,9 +24,9 @@
 
 Zenn記事投稿
 <!-- ZENN:START -->
+- [輪読会を通じて学びを共有する実践方法](https://zenn.dev/edash_tech_blog/articles/0602044d698b77)
 - [PHPエンジニア視点で見るGolangの魅力とPHPとの違い](https://zenn.dev/edash_tech_blog/articles/4e88cbbcbfd3ae)
 - [Terraform 環境ごとの管理から共通化へのシフトを考える](https://zenn.dev/edash_tech_blog/articles/ffef0fc9cebbe0)
 - [AWSスイッチロール設定の備忘録](https://zenn.dev/edash_tech_blog/articles/f7ffab1dcb03c3)
 - [SRE入門ガイド：サイト信頼性エンジニアリングの基本と実践](https://zenn.dev/edash_tech_blog/articles/8de8bc3931b29d)
-- [Go言語 ビット演算でのフラグ管理](https://zenn.dev/edash_tech_blog/articles/c0a3a5035e9196)
 <!-- ZENN:END -->
