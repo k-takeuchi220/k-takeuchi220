@@ -12,16 +12,6 @@
   
 ---
 
-技術ブログ[エンジニアの階段] 最新投稿
-<!-- ENGINEER:START -->
-- [Oktaのキャッシュキー生成問題から学ぶ認証システム設計の教訓](https://took.jp/okta-cache-key/)
-- [Apple Vision Proの実力は？購入者が語るリアルな感想](https://took.jp/apple-vision-pro/)
-- [【Sesame4】GolangでSesameAPIを使い、鍵を操作する](https://took.jp/sesame-api/)
-- [【Unity】OpenAPI&lpar;Swagger&rpar;からopenapi-generator-cliを使用してコードを自動生成する](https://took.jp/openapi-generator-cli-unity/)
-- [Lightsailで作成したWordPressサイトにCloudFrontを導入する](https://took.jp/lightsail-wordpress-cloudfront/)
-<!-- ENGINEER:END -->
-
-
 Zenn記事投稿
 <!-- ZENN:START -->
 - [【google/wire vs uber-go/dig】Golangにおける依存注入ライブラリの比較](https://zenn.dev/edash_tech_blog/articles/85551e0aff68dc)
