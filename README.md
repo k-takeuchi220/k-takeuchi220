@@ -14,9 +14,9 @@
 
 Zenn記事投稿
 <!-- ZENN:START -->
-- [【google/wire vs uber-go/dig】Golangにおける依存注入ライブラリの比較](https://zenn.dev/edash_tech_blog/articles/85551e0aff68dc)
-- [輪読会を通じて学びを共有する実践方法](https://zenn.dev/edash_tech_blog/articles/0602044d698b77)
-- [PHPエンジニア視点で見るGolangの魅力とPHPとの違い](https://zenn.dev/edash_tech_blog/articles/4e88cbbcbfd3ae)
-- [Terraform 環境ごとの管理から共通化へのシフトを考える](https://zenn.dev/edash_tech_blog/articles/ffef0fc9cebbe0)
-- [AWSスイッチロール設定の備忘録](https://zenn.dev/edash_tech_blog/articles/f7ffab1dcb03c3)
+- [Lambda + SQS非同期処理基盤のインフラ設計判断ポイント](https://zenn.dev/edash_tech_blog/articles/98432fcc443b9d)
+- [GitHub ActionsのCDフローでpushイベントを選択すべき理由](https://zenn.dev/edash_tech_blog/articles/4ae70bef4742e8)
+- [GitHub Actionsで大量差分時にワークフローが起動しない問題と解決策](https://zenn.dev/edash_tech_blog/articles/7f993272007edf)
+- [GoアプリにDatadog APMトレースを自動挿入した話](https://zenn.dev/edash_tech_blog/articles/11c6aeb43082a7)
+- [Goモノレポ開発の落とし穴 go.workファイルはコミットすべきか？](https://zenn.dev/edash_tech_blog/articles/0d4af2ec21b454)
 <!-- ZENN:END -->
